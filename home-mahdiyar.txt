@@ -1,3 +1,3 @@
 bugfix test
 
-cool session feature added as chore 
+very cool session feature added as chore 
